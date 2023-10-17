@@ -12,6 +12,7 @@ This is a personal project, after learning caesar (rot 13) ciphers, I realised I
 
 ## Roadmap
 
+- Deploy
 - Fix plugboard
 - Finish lightboard (light up the encrypted key)
 - Add UI/UX for custom inputs
