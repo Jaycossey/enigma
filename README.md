@@ -1,4 +1,4 @@
-# Eniga Machine
+# Enigma Machine
 
 This is a personal project, after learning caesar (rot 13) ciphers, I realised I could do more complex algorithms to create an interactive enigma machine. With this in mind I set out to complete the task with react JS and tailwindCSS.
 
