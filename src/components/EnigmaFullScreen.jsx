@@ -333,12 +333,9 @@ export default function EnigmaFullScreen() {
                             <p>Choose up to 10 pairs!</p>
                         </div>
                         <KeyboardElements boardName="plugboard" keyOrder={rotarArray[0].combination} handlePlug={handlePlugboardClick} />
-
                         
                     </div>
-
                 </div>
-
                 <div id="ciphertext-display" className="row-span-3 row-start-3 m-2 col-start-4 p-10">
                     <p id="ciphertext" className="w-full h-full rounded-xl resize-none p-10 shadow-lg bg-white">{ciphertextState}</p>
                 </div>
