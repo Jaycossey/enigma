@@ -2,7 +2,7 @@
   "name": "enigma-machine",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Jaycossey.github.io/react-gh-pages",
+  "homepage": "https://Jaycossey.github.io/enigma",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
