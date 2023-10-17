@@ -1,6 +1,6 @@
 # Eniga Machine
 
-This is a personal project, after learning caesar (rot 13) ciphers, I realised I could do more complex algorithms to create an interactive enigma machine. With this in mind I set out to complete the task with react JS and tailwindCSS. 
+This is a personal project, after learning caesar (rot 13) ciphers, I realised I could do more complex algorithms to create an interactive enigma machine. With this in mind I set out to complete the task with react JS and tailwindCSS.
 
 ## Front End
 
@@ -12,10 +12,9 @@ This is a personal project, after learning caesar (rot 13) ciphers, I realised I
 
 ## Roadmap
 
-- Port over the component from old project
-- Edit the code to fit a new screen
 - Fix plugboard
-- Deploy
+- Finish lightboard (light up the encrypted key)
+- Add UI/UX for custom inputs
 
 ## Usage
 
